@@ -1,0 +1,1206 @@
+{
+  "_links": {
+    "_next": "https://api.planet.com/basemaps/v1/mosaics?_page=2&_page_size=50&api_key=api_key",
+    "_self": "https://api.planet.com/basemaps/v1/mosaics?api_key=api_key"
+  },
+  "mosaics": [
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/48fff803-4104-49bc-b913-7467b7a5ffb5?api_key=api_key",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2016_01_mosaic/gmap/{z}/{x}/{y}.png?api_key=api_key"
+      },
+      "bbox": [-179, -56, 180, 58],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2016-01-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "48fff803-4104-49bc-b913-7467b7a5ffb5",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2016-02-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2016_01_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/a97687cf-65db-4f34-ab2c-2ef7596a24ce?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2016_02_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179, -56, 180, 68],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2016-02-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "a97687cf-65db-4f34-ab2c-2ef7596a24ce",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2016-03-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2016_02_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/cfd6a60f-ec1e-491d-a885-e06d43990bd5?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2016_03_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -55, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2016-03-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "cfd6a60f-ec1e-491d-a885-e06d43990bd5",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2016-04-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2016_03_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/e6eaab79-7209-46cd-b187-1046e302e8bb?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2016_04_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -53, 180, 65],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2016-04-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "e6eaab79-7209-46cd-b187-1046e302e8bb",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2016-05-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2016_04_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/ab910c9a-242f-47e2-8c3c-debbe256a724?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2016_05_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -55, 180, 70],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2016-05-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "ab910c9a-242f-47e2-8c3c-debbe256a724",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2016-06-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2016_05_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/4c20a124-b320-4b64-a00c-5d4bc0f8e371?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2016_06_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -51, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2016-06-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "4c20a124-b320-4b64-a00c-5d4bc0f8e371",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2016-07-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2016_06_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/727c90ac-0e02-47ae-92bd-2e3b41c6395c?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2016_07_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -52, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2016-07-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "727c90ac-0e02-47ae-92bd-2e3b41c6395c",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2016-08-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2016_07_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/d887144d-e7c5-4980-8fd4-28287ff875bb?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2016_08_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2016-08-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "d887144d-e7c5-4980-8fd4-28287ff875bb",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2016-09-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2016_08_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/17218a40-7753-4a1d-9bcc-f0ce632c3c2b?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2016_09_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2016-09-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "17218a40-7753-4a1d-9bcc-f0ce632c3c2b",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2016-10-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2016_09_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/1ade603f-40d3-4eeb-b742-10e6b3e8aa49?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2016_10_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2016-10-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "1ade603f-40d3-4eeb-b742-10e6b3e8aa49",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2016-11-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2016_10_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/1ef11325-beb4-4531-b422-573e121f4611?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2016_11_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56, 180, 70],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2016-11-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "1ef11325-beb4-4531-b422-573e121f4611",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2016-12-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2016_11_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/f2952136-69bc-4c31-bc21-a2e3919042a1?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2016_12_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56, 180, 62],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2016-12-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "f2952136-69bc-4c31-bc21-a2e3919042a1",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2017-01-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2016_12_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/5b9d2f32-7329-419a-9822-5d4cdfefe198?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2017_01_mutate_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56, 180, 67],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2017-01-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "5b9d2f32-7329-419a-9822-5d4cdfefe198",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2017-02-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2017_01_mutate_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/0c24ddd9-ddec-4ffa-9124-d12581f6c1ea?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2017_02_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2017-02-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "0c24ddd9-ddec-4ffa-9124-d12581f6c1ea",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2017-03-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2017_02_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/ecb880ff-5ed3-4715-8025-5c5f580ab0dd?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2017_03_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -57, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2017-03-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "ecb880ff-5ed3-4715-8025-5c5f580ab0dd",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2017-04-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2017_03_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/fddb9ff1-c3ec-48d3-b25d-72da64b7e493?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2017_04_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2017-04-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "fddb9ff1-c3ec-48d3-b25d-72da64b7e493",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2017-05-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2017_04_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/cfb53e32-1f83-409d-9607-78824445a678?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2017_05_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2017-05-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "cfb53e32-1f83-409d-9607-78824445a678",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2017-06-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2017_05_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/ea71f1a3-862b-446e-8cd6-f05f938beb07?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2017_06_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -54, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2017-06-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 2048,
+        "resolution": 4.77731426782352
+      },
+      "id": "ea71f1a3-862b-446e-8cd6-f05f938beb07",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2017-07-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2017_06_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/c2a2ef5a-1030-42d0-90de-eb68e8d4b15d?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2017_07_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2017-07-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "c2a2ef5a-1030-42d0-90de-eb68e8d4b15d",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2017-08-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2017_07_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/6cb7952f-f365-475e-8e43-8f7798a0f4cd?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2017_08_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2017-08-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "6cb7952f-f365-475e-8e43-8f7798a0f4cd",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2017-09-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2017_08_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/20f3b8f0-bcf2-4497-a4b3-6f1ac51bc63c?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2017_09_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -60, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2017-09-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "20f3b8f0-bcf2-4497-a4b3-6f1ac51bc63c",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2017-10-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2017_09_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/15118769-14c3-410a-b4ab-aa247b02e4ad?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2017_10_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -57, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2017-10-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "15118769-14c3-410a-b4ab-aa247b02e4ad",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2017-11-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2017_10_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/af07deed-ed16-469e-9a41-a886c43df825?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2017_11_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -57, 180, 70],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2017-11-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "af07deed-ed16-469e-9a41-a886c43df825",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2017-12-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2017_11_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/889874a4-c9fb-49b4-b696-fa1cc92f1808?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2017_12_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -57, 180, 62],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2017-12-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "889874a4-c9fb-49b4-b696-fa1cc92f1808",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2018-01-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2017_12_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/48bd68d0-011d-4d00-92f5-ffce9432cda8?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2018_01_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -57, 180, 68],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2018-01-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "48bd68d0-011d-4d00-92f5-ffce9432cda8",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2018-02-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2018_01_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/b03cedd7-a2c8-4c12-a273-a70557592d89?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2018_02_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179.999999974944, -56.656226488197, 179.999999975056, 76.016093660188],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2018-02-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426716
+      },
+      "id": "b03cedd7-a2c8-4c12-a273-a70557592d89",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2018-03-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2018_02_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/0d8ee4dc-68de-4dd0-94be-34261e5b46c8?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2018_03_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179.999999974944, -56.656226488197, 179.999999975056, 76.016093660188],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2018-03-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426716
+      },
+      "id": "0d8ee4dc-68de-4dd0-94be-34261e5b46c8",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2018-04-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2018_03_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/f5d535a8-3709-4198-a867-e6106c35e9a7?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2018_04_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2018-04-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "f5d535a8-3709-4198-a867-e6106c35e9a7",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2018-05-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2018_04_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/a2c10c23-54c1-45e1-8a0a-50b83cfc3d77?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2018_05_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2018-05-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "a2c10c23-54c1-45e1-8a0a-50b83cfc3d77",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2018-06-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2018_05_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/5ca2b36f-3b56-462f-8940-957aad9bc56e?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2018_06_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56, 180, 76],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2018-06-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "5ca2b36f-3b56-462f-8940-957aad9bc56e",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2018-07-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2018_06_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/b4e69c91-e648-4877-95ad-b11a24861c06?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2018_07_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -55.973798, 180, 76.016094],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2018-07-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "b4e69c91-e648-4877-95ad-b11a24861c06",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2018-08-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2018_07_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/513bc1c8-25b3-4dee-b80c-cdc8e4b2099a?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2018_08_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56.072035, 180, 76.016094],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2018-08-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "513bc1c8-25b3-4dee-b80c-cdc8e4b2099a",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2018-09-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2018_08_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/b5faab43-36c1-44e3-812d-f51948c9ffe2?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2018_09_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56.072035, 180, 76.016094],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2018-09-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "b5faab43-36c1-44e3-812d-f51948c9ffe2",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2018-10-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2018_09_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/28be1b87-3bda-4644-b087-e39c141e2634?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2018_10_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56.559482, 180, 76.016094],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2018-10-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "28be1b87-3bda-4644-b087-e39c141e2634",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2018-11-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2018_10_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/f876dcf1-e4ad-4624-85b0-e5a222caadf0?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2018_11_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56.36525, 180, 66.722541],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2018-11-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "f876dcf1-e4ad-4624-85b0-e5a222caadf0",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2018-12-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2018_11_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/d9264bbc-a677-4828-8493-467558cb348d?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2018_12_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56.170023, 180, 57.984808],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2018-12-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "d9264bbc-a677-4828-8493-467558cb348d",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2019-01-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2018_12_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/b9a1ee8a-190c-45cd-bb1a-fe136db118f2?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2019_01_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56.072035, 180, 61.438767],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2019-01-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "b9a1ee8a-190c-45cd-bb1a-fe136db118f2",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2019-02-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2019_01_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/14154e5d-0ff0-48af-8ee7-5303f80e98a4?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2019_02_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-180, -56.656226, 180, 72.235514],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2019-02-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "14154e5d-0ff0-48af-8ee7-5303f80e98a4",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2019-03-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2019_02_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/af953970-7189-473a-8e26-24397577eaa2?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2019_03_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179.999999974944, -56.072035466496, 179.999999975056, 76.016093660188],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2019-03-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "af953970-7189-473a-8e26-24397577eaa2",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2019-04-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2019_03_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/2cb5dc96-7de0-4cbd-a92c-751269440b59?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2019_04_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179.999999974944, -56.365250131551, 179.999999975056, 76.016093660188],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2019-04-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "2cb5dc96-7de0-4cbd-a92c-751269440b59",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2019-05-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2019_04_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/3ad57d23-4da1-4d4e-956d-f66015ef4d10?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2019_05_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179.999999974944, -56.365250131551, 179.999999975056, 76.016093660188],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2019-05-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "3ad57d23-4da1-4d4e-956d-f66015ef4d10",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2019-06-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2019_05_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/e6fe5d09-891f-44c6-a74c-c2de1f43383c?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2019_06_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179.999999974944, -55.875310830392, 179.999999975056, 76.016093660188],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2019-06-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "e6fe5d09-891f-44c6-a74c-c2de1f43383c",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2019-07-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2019_06_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/713db44d-fe75-4ba5-aa6d-defbd8c890cf?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2019_07_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179.999999974944, -56.072035466496, 179.999999975056, 76.016093660188],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2019-07-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "713db44d-fe75-4ba5-aa6d-defbd8c890cf",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2019-08-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2019_07_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/2c4b3b80-fd60-406a-b0a8-76467980789d?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2019_08_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179.999999974944, -56.170022977627, 179.999999975056, 76.016093660188],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2019-08-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "2c4b3b80-fd60-406a-b0a8-76467980789d",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2019-09-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2019_08_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/fa63c2ec-0ecf-4e0a-997f-665f03cdf6e5?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2019_09_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179.999999974944, -60.064840454838, 179.999999975056, 76.016093660188],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2019-09-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "fa63c2ec-0ecf-4e0a-997f-665f03cdf6e5",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2019-10-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2019_09_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/509e818d-75f3-46b4-bb88-4d46212e67fc?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2019_10_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179.999999974944, -56.752722866753, 179.999999975056, 76.840816410531],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2019-10-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "509e818d-75f3-46b4-bb88-4d46212e67fc",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2019-11-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2019_10_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/55fcb749-30df-4c7c-94cb-5e9832605346?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2019_11_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179.999999974944, -57.984808013942, 179.999999975056, 65.512962548279],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2019-11-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "55fcb749-30df-4c7c-94cb-5e9832605346",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2019-12-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2019_11_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/47e57cec-91ff-46d2-bcf2-9c42d74382c4?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2019_12_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179.999999974944, -57.984808013942, 179.999999975056, 57.891497347472],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2019-12-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "47e57cec-91ff-46d2-bcf2-9c42d74382c4",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene",
+        "REOrthoTile"
+      ],
+      "last_acquired": "2020-01-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2019_12_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/fed42f53-52c0-4efc-b2b1-b6a970271645?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2020_01_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179.999999974944, -59.623325217855, 179.999999975056, 62.186013852037],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2020-01-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "fed42f53-52c0-4efc-b2b1-b6a970271645",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene"
+      ],
+      "last_acquired": "2020-02-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2020_01_mosaic",
+      "product_type": "timelapse"
+    },
+    {
+      "_links": {
+        "_self": "https://api.planet.com/basemaps/v1/mosaics/0566310e-ae89-4685-a548-a34a2b09d979?api_key=PLAK70f49dbffe064d049205ff70efc3ccad",
+        "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/global_monthly_2020_02_mosaic/gmap/{z}/{x}/{y}.png?api_key=PLAK70f49dbffe064d049205ff70efc3ccad"
+      },
+      "bbox": [-179.999999974944, -59.623325217855, 179.999999975056, 72.607120395826],
+      "coordinate_system": "EPSG:3857",
+      "datatype": "byte",
+      "first_acquired": "2020-02-01T00:00:00.000Z",
+      "grid": {
+        "quad_size": 4096,
+        "resolution": 4.77731426782352
+      },
+      "id": "0566310e-ae89-4685-a548-a34a2b09d979",
+      "interval": "1 mon",
+      "item_types": [
+        "PSScene"
+      ],
+      "last_acquired": "2020-03-01T00:00:00.000Z",
+      "level": 15,
+      "name": "global_monthly_2020_02_mosaic",
+      "product_type": "timelapse"
+    }
+  ]
+}
