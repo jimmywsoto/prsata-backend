@@ -14,7 +14,7 @@ const router = express.Router();
 {/* -------------------------------------------------------- CORS */ }
 const allowedOrigins = [
     'http://localhost:5173',
-    'https://geoinspire-hub.vercel.app',
+    'https://prsata-hub.vercel.app',
 ];
 
 const corsOptions = {
