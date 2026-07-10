@@ -100,10 +100,10 @@ app.use(
 // Conexión a la base de datos
 //connectDB();
 
-const PORT = process.env.PORT || 3000;
+/*const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
   console.log(`Servidor escuchando en http://localhost:${PORT}`);
-});
+});*/
 
 export default app;
