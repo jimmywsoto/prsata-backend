@@ -1,8 +1,8 @@
 {/* 
     COPYRIGHTS: JWS INGENIERÍA 
     CREATE AT: 09/01/2026
-    LAST MODIFIED: 09/01/2026
-    VERSIÓN: 1.0.0
+    LAST MODIFIED: 17/09/2026
+    VERSIÓN: 1.1.0
 */}
 
 import express from 'express';
@@ -10,10 +10,6 @@ import cors from 'cors';
 import morgan from 'morgan';
 import dotenv from 'dotenv';
 import routes from './routes/index.js';
-//import rateLimit from "express-rate-limit";
-//import contactRoutes from "./routes/contact.routes.js";
-//import resourceRoutes from './routes/resource.routes.js';
-//import clientRoutes from './routes/client.routes.js's
 import accessRoutes from "./routes/access.routes.js";
 
 // Planet Routes
@@ -25,6 +21,9 @@ import reportRoutes from "./routes/report.routes.js";
 
 // Validacion de alertas
 import validationCampaignRoutes from "./routes/validationCampaign.routes.js";
+
+// Proxy WMS
+import wmsRoutes from "./routes/wms.routes.js";
 
 dotenv.config();
 console.log('Welcome back, Mr. JWS ...');
@@ -78,27 +77,9 @@ app.use('/api/admin', adminRoutes); // Para rutas de administrador
 
 app.use('/api/report', reportRoutes); // Para rutas de reportes
 
-app.use(
-    "/api/validation-campaigns",
-    validationCampaignRoutes
-); // Para validacion de alertas
+app.use("/api/validation-campaigns", validationCampaignRoutes); // Para validacion de alertas
 
-// Recursos
-//app.use('/api/resources', resourceRoutes);
-// Mail
-/*app.use(
-  "/api/contact",
-  rateLimit({
-    windowMs: 15 * 60 * 1000,
-    max: 20,
-  })
-);*/
-
-//app.use("/api/contact", contactRoutes);
-//app.use("/api/clients", clientRoutes);
-
-// Conexión a la base de datos
-//connectDB();
+app.use('/api/wms', wmsRoutes); // Para WMS Proxy
 
 /*const PORT = process.env.PORT || 3000;
 
